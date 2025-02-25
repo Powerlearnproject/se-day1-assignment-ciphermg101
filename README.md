@@ -30,11 +30,11 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-Waterfall is linear and sequential, whereas Agile is iterative and incremental.
-Waterfall has distinct and separate phases, whereas Agile has overlapping and continuous phases.
-Waterfall has a single, final delivery, whereas Agile has continuous delivery and feedback.
-Waterfall is suitable for projects with predictable and well-defined requirements, such as building a bridge or building.
-Agile is suitable for projects with uncertain or changing requirements, such as software development or product design.
+1. Waterfall is linear and sequential, whereas Agile is iterative and incremental.
+2. Waterfall has distinct and separate phases, whereas Agile has overlapping and continuous phases.
+3. Waterfall has a single, final delivery, whereas Agile has continuous delivery and feedback.
+4. Waterfall is suitable for projects with predictable and well-defined requirements, such as building a bridge or building.
+5. Agile is suitable for projects with uncertain or changing requirements, such as software development or product design.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 1. Roles and responsibilities of a Software Developer:
@@ -72,7 +72,7 @@ Time constraints: Software engineers often work under tight deadlines, which can
 Continuous learning: The software industry is constantly evolving, and software engineers must continuously learn new technologies and skills to stay up-to-date. This issue can be solved by attending conferences, reading books, and participating in online forums.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
- 1. Unit testing involves testing individual units of code, such as functions or methods, to ensure they work as expected. Unit testing helps identify and fix bugs early in the development process, reducing the overall cost of debugging and maintenance.
+1. Unit testing involves testing individual units of code, such as functions or methods, to ensure they work as expected. Unit testing helps identify and fix bugs early in the development process, reducing the overall cost of debugging and maintenance.
 2. Integration testing involves testing how different units of code work together to ensure they integrate correctly.  Integration testing helps identify issues that arise when different components interact with each other, ensuring the software works as a whole.
 3. System Testing involves testing the entire software system to ensure it meets the requirements and works as expected. System testing helps identify issues that affect the overall system, ensuring it is stable and reliable.
 4. Acceptance Testing involves testing the software to ensure it meets the acceptance criteria and requirements defined by the stakeholders, hence reducing the risk of rejection or rework.
